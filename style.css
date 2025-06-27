@@ -13,7 +13,7 @@
   --gray-800: hsl(0, 0%, 12%);
   --gray-900: hsl(0, 0%, 8%);
   --font-family: 'Inter', sans-serif;
-  --radius: .25rem
+  --radius: .25rem;
 }
 
 * {
